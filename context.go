@@ -1,9 +1,8 @@
-type Context struct {
-	Params map[string]interface{}
+// type Context struct {
+// 	Params map[string]interface{}
 
-	ResponseWriter http.ResponseWriter
-	Request		   *http.Request
-}
+// 	ResponseWriter http.ResponseWriter
+// 	Request		   *http.Request
+// }
 
-type HandlerFunc func(*Context)
-
+// type HandlerFunc func(*Context)

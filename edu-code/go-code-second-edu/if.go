@@ -1,8 +1,8 @@
-package main
+// package main
 
-func main() {
-	i := 1
-	if i > 0 {
-		// ...
-	}
-}
+// func main() {
+// 	i := 1
+// 	if i > 0 {
+// 		// ...
+// 	}
+// }

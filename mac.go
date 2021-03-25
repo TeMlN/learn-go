@@ -1,10 +1,11 @@
-package main
+// package main
 
-package (
-	"fmt"
-)
+// import (
+// 	"fmt"
+// )
 
-func main() {
-	fmt.Println("Hello my mac")
-} 
+// func main() {
+// 	fmt.Println("Hello my mac")
+// }
+
 // fisrt commit in mac

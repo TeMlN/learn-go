@@ -1,18 +1,18 @@
-package main
+// package main
 
-import (
-	"bufio"
-	"fmt"
-	"os"
-)
+// import (
+// 	"bufio"
+// 	"fmt"
+// 	"os"
+// )
 
-func main() {
-	var f *os.File
-	f = os.Stdin
-	defer f.Close()
+// func main() {
+// 	var f *os.File
+// 	f = os.Stdin
+// 	defer f.Close()
 
-	scanner := bufio.NewScanner(f)
-	for scanner.Scan() {
-		fmt.Println(">", scanner.Text())
-	}
-} 
+// 	scanner := bufio.NewScanner(f)
+// 	for scanner.Scan() {
+// 		fmt.Println(">", scanner.Text())
+// 	}
+// } 
